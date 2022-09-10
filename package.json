@@ -1,0 +1,21 @@
+{
+  "name": "define-type-dll-webpack-plugin",
+  "version": "0.0.2",
+  "description": "used to change the global definition type after the webpack dll is built",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dll"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "roy",
+  "license": "MIT",
+  "email": "554246839@qq.com",
+  "devDependencies": {
+    "webpack-sources": "^3.2.3"
+  }
+}
