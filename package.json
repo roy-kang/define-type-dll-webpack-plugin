@@ -1,0 +1,29 @@
+{
+  "name": "define-type-dll-webpack-plugin",
+  "version": "0.0.4",
+  "description": "used to change the global definition type after the webpack dll is built",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dll"
+  ],
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy-kang/define-type-dll-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roy-kang/define-type-dll-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/roy-kang/define-type-dll-webpack-plugin/blob/master/README.md",
+  "author": "roy",
+  "license": "MIT",
+  "email": "554246839@qq.com",
+  "devDependencies": {
+    "webpack-sources": "^3.2.3"
+  }
+}
