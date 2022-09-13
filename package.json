@@ -12,6 +12,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy-kang/define-type-dll-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roy-kang/define-type-dll-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/roy-kang/define-type-dll-webpack-plugin/blob/master/README.md",
   "author": "roy",
   "license": "MIT",
   "email": "554246839@qq.com",
